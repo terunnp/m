@@ -1,4 +1,4 @@
-E,Kabupaten / Kota / Provinsi,January,February,March,April,May,June,July,August,September,October,November,December
+E,Kabupaten / Kota /,January,February,March,April,May,June,July,August,September,October,November,December
 K1,BENGKAYANG,0,0,0,0,0,0,0,0,0,0,0,0
 K2,KAPUAS_HULU,0,0,0,0,0,0,0,0,0,0,0,0
 K3,KAYONG_UTARA,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,3 +13,4 @@ K11,SAMBAS,0,0,0,0,0,0,0,0,0,0,0,0
 K12,SANGGAU,0,0,0,0,0,0,0,0,0,0,0,0
 K13,SEKADAU,0,0,0,0,0,0,0,0,0,0,0,0
 K14,SINTANG,0,0,0,0,0,0,0,0,0,0,0,0
+
