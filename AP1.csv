@@ -1,11 +1,11 @@
 WADMKK,E,January,February,March,April,May,June,July,August,September,October,November,December
 Bengkayang,K1,0,0,0,0,0,0,0,0,0,0,0,0
 Kapuas Hulu,K2,0,0,0,0,0,0,0,0,0,0,0,0
-Kayong Utara,K3,KAYONG_UTARA,0,0,0,0,0,0,0,0,0,0,0,0
-Ketapang,K4,K4,0,0,0,0,0,0,0,0,0,0,0,0
+Kayong Utara,0,0,0,0,0,0,0,0,0,0,0,0
+Ketapang,K4,0,0,0,0,0,0,0,0,0,0,0,0
 Kota Pontianak,K5,1,1,1,1,0,2,0,1,0,0,0,0
-Kota Singkawang,K6,,0,1,0,0,0,0,1,0,0,0,0,0
-Kubu Raya,K7,,0,0,2,1,1,0,1,0,0,0,0,0
+Kota Singkawang,K6,0,1,0,0,0,0,1,0,0,0,0,0
+Kubu Raya,K7,0,0,2,1,1,0,1,0,0,0,0,0
 Landak,K8,0,0,0,0,0,0,0,0,0,0,0,0
 Melawi,K9,0,0,0,0,0,0,0,0,0,0,0,0
 Mempawah,K10,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,3 +13,4 @@ Sambas,K11,0,0,0,0,0,0,0,0,0,0,0,0
 Sanggau,K12,0,0,0,0,0,0,0,0,0,0,0,0
 Sekadau,K13,0,0,0,0,0,0,0,0,0,0,0,0
 Sintang,K14,0,0,0,0,0,0,0,0,0,0,0,0
+
